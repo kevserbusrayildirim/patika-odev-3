@@ -1,0 +1,13 @@
+package kevserbusrayildirim.patikaodev3;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class PatikaOdev3ApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
